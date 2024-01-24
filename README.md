@@ -7,7 +7,7 @@
 ![Giho's GitHub stats](https://github-readme-stats.vercel.app/api?username=GihoKim1010&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kouyouhana)](https://solved.ac/kouyouhana/)
 
-## 🔨 What I learned 🔨
+## 🔨 What I Learned 🔨
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
