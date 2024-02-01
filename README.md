@@ -24,5 +24,5 @@
 </div>
 
 ## 🍎 Study Blog 🍎
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-eb531f?style=flat-square&logo=Tistory&link=https://soo-vely-dev.tistory.com/)](https://envergure707.tistory.com/)
-
+![Tistory](http://img.shields.io/badge/-Tistory-eb531f?style=flat-square&logo=Tistory&link=[https://envergure707.tistory.com])
+![Velog](http://img.shields.io/badge/-Velog-101010?style=flat-square&logo=velog&link=[https://velog.io/@kouyouhana/series])
