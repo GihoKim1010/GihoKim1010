@@ -25,4 +25,4 @@
 
 ## 🍎 Study Blog 🍎
 [![Tistory](http://img.shields.io/badge/-Tistory-eb531f?style=flat-square&logo=Tistory&link=[https://envergure707.tistory.com])](http://envergure707.tistory.com)
-[![Velog](http://img.shields.io/badge/-Velog-101010?style=flat-square&logo=velog&link=[https://velog.io/@kouyouhana/series])](http:/velog.io/@kouyouhana/series)
+[![Velog](http://img.shields.io/badge/-Velog-101010?style=flat-square&logo=velog&link=[https://velog.io/@kouyouhana/posts])](http:/velog.io/@kouyouhana/posts)
